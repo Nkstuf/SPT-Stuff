@@ -1,5 +1,5 @@
 ### Previews
 
-![](images/Chameleon.png)<br>
-![](images/Violet.png)<br>
-![](images/80s.png)<br>
+![](Images/Chameleon.png)<br>
+![](Images/Violet.png)<br>
+![](Images/80s.png)<br>
