@@ -1,5 +1,5 @@
 ### Previews
 
-![](images/main.png)<br>
-![](images/right.png)<br>
-![](images/left.png)<br>
+![](images/Chameleon.png)<br>
+![](images/Violet.png)<br>
+![](images/80s.png)<br>
